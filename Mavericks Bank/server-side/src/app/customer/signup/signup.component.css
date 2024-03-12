@@ -1,0 +1,14 @@
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .input-group-text .bi {
+    color: green;
+  }
+  
+  .invalid-feedback {
+    color: red;
+  }
+  
